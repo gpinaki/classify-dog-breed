@@ -1,4 +1,4 @@
-# Dog Breed Classifier Project from Udacity
+## Dog Breed Classifier Project from Udacity
 
 ### Project Overview
 
@@ -24,8 +24,8 @@ Import and load the required dataset
 
 Following datasets are supplied by Udacity. Refer the links in the notebook.
 
-Download the dog dataset
-Download the human_dataset
+* The dog dataset
+* The human_dataset
 
 ### Acknowldgements
 This is a capstone project from Udacity Data Science Nanodegree program. The code structure, templates etc are provided by Udacity. 
