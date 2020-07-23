@@ -29,3 +29,6 @@ Following datasets are supplied by Udacity. Refer the links in the notebook.
 
 ### Acknowldgements
 This is a capstone project from Udacity Data Science Nanodegree program. The code structure, templates etc are provided by Udacity. 
+
+
+My blogpost link related to this project is [this](https://medium.com/@pinaki.guha/dog-breed-classification-project-using-cnn-4daa02bed23).
